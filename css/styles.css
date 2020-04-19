@@ -1,0 +1,90 @@
+body{
+    font-family: Proxima !important;
+	font-size: 20px;
+}
+.signup-btn {
+    font-family: Proxima;
+    font-size: 1.25rem !important;
+border-radius: 5px !important;
+    font-weight: bold !important;
+    padding: 10px 24px !important;
+    color: white !important;
+}
+@font-face {
+    font-family: Proxima;
+    src: url(../fonts/ProximaNova-Regular.woff);
+}
+.makemecenter{
+    text-align: center;
+}
+.pt-6{
+    padding-top: 5%;
+}
+.makemebold
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+.makemebig{
+    font-size: 50px;
+}
+.makememedium{
+    font-size: 26px;
+}
+.homefont
+{
+ font-size: 24px;
+}
+.homefont-small
+{
+    font-size: 20px;
+}
+.siz-big{
+    padding: 10px 50px 10px 50px !important;
+    font-size: 25px !important;
+}
+.makemesmall{
+    font-size: 15px !important;
+}
+.card-bold
+{
+    font-weight: bold !important;
+    font-size: 25px !important;
+}
+
+.standard-card-height
+{
+    height: 250px !important;
+}
+.border-radius-right
+{
+    border-radius: 0 50px 50px 0;
+    font-size: 18px !important;
+}
+.learn-more
+{
+   border-radius: 10px;
+}
+.bg-image{
+    background: url("../img/list-background.png");
+}
+
+.img-res{
+    display: block;
+    width: 100%;
+    height: 70%;
+    padding-top: 100px !important;
+}
+
+.bg-my-color{
+    background-color: #F9FAFC !important;
+}
+.slidecard{
+    width: 400px;
+    margin-left: 0;
+}
+.increasemyheight
+{
+    height:450px;
+    width: 500px;
+}
